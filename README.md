@@ -7,6 +7,7 @@
 **Meu nome é Luis Matheus Casagrande. Sou estudante de Análise e Desenvolvimento de Sistemas. Me interesso por tecnologia 📱, musica 🎸 e video games 🎮.**
 **Atualmente sou um colaborador na área de desenvolvimento na empresa** **[Telecon Sistemas](https://www.teleconsistemas.com.br).**
 **Tenho experiência em desnvolvimento Front-end Angular, mobile Android/IOS em Flutter e aplicação Windows Form.**
+**A melhor forma de entrar em contato comigo é pelo Discord**
 
 ---
 
@@ -29,9 +30,9 @@
   <a href="https://steamcommunity.com/id/luisbighouse/" alt="Steam" target="_blank">
   <img src="https://img.shields.io/badge/Steam-Luis%20BigHouse-black?style=flat-square&logo=steam"></a>
 
-  <a href="#" alt="Discord">
+  <a href="#" alt="Discord" target="_blank">
   <img src="https://img.shields.io/badge/Discord-Luis%20BigHouse%230184-blueviolet?style=flat-square&logo=discord"></a>
 
-  <a href="#" alt="Blizzard">
+  <a href="#" alt="Blizzard" target="_blank">
   <img src="https://img.shields.io/badge/Blizzard-BigHouse%231761-blue?style=flat-square&logo=battle.net"></a>
 </div>

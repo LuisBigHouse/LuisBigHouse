@@ -5,7 +5,7 @@
 **Olá 🖖,** 
 
 **Meu nome é Luis Matheus Casagrande. Sou estudante de Análise e Desenvolvimento de Sistemas. Me interesso por tecnologia 📱, musica 🎸 e video games 🎮.**
-**Atualmente sou um colaborador na área de desenvolvimento na empresa** **[Telecon Sistemas](https://www.teleconsistemas.com.br). Tenho experiência em desnvolvimento Front-end Angular, mobile Android/IOS em Flutter e aplicação Windows Form. **
+**Atualmente sou um colaborador na área de desenvolvimento na empresa** **[Telecon Sistemas](https://www.teleconsistemas.com.br).** Tenho experiência em desnvolvimento Front-end Angular, mobile Android/IOS em Flutter e aplicação Windows Form. **
 
 ---
 

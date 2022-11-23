@@ -4,14 +4,14 @@
 
 **Olá 🖖,** 
 
-**Meu nome é Luis Matheus Casagrande, sou formado em engenharia química e estudante de programação. Me interesso por tecnologia 📱, musica 🎸 e video games 🎮.**
-**Atualmente sou estagiario na área de desenvolvimento na empresa** **[Telecon Sistemas](https://www.teleconsistemas.com.br).**
+**Meu nome é Luis Matheus Casagrande. Sou estudante de Análise e Desenvolvimento de Sistemas. Me interesso por tecnologia 📱, musica 🎸 e video games 🎮.**
+**Atualmente sou um colaborador na área de desenvolvimento na empresa** **[Telecon Sistemas](https://www.teleconsistemas.com.br). Tenho experiência em desnvolvimento Front-end Angular, mobile Android/IOS em Flutter e aplicação Windows Form. **
 
 ---
 
-🦄 Linguagens: **C#**, **HTML**, **CSS**, **JavaScript**
+🦄 Linguagens: **C#**, **Dart**, **HTML**, **CSS**, **JavaScript**, **Typescript** 
 
-💼 Ferramentas: **GitHub**, **VS Code**, **Visual Studio 2019**, **PhotoShop**, **AutoCad**
+💼 Ferramentas/Frameworks: **Angular**, **Flutter**, **Visual Studio**, **Visual Studio Code**, **GitHub**, **VS Code**, **PhotoShop**
 
 ---
 

@@ -24,14 +24,11 @@
   <a href="https://api.whatsapp.com/send?phone=5551993048819" alt="WhatsApp" target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
-  <a href="https://www.facebook.com/luismatheusc" alt="Facebook" target="_blank">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
-
   <a href="https://steamcommunity.com/id/luisbighouse/" alt="Steam" target="_blank">
   <img src="https://img.shields.io/badge/Steam-Luis%20BigHouse-black?style=flat-square&logo=steam"></a>
 
   <a href="#" alt="Discord">
-  <img src="https://img.shields.io/badge/Discord-Luis%20BigHouse%230184-blueviolet?style=flat-square&logo=discord"></a>
+  <img src="https://img.shields.io/badge/Discord-LuisBigHouse-blueviolet?style=flat-square&logo=discord"></a>
 
   <a href="#" alt="Blizzard">
   <img src="https://img.shields.io/badge/Blizzard-BigHouse%231761-blue?style=flat-square&logo=battle.net"></a>

@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/luis-matheus-casagrande-7a058a127/" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="https://api.whatsapp.com/send?phone=+5551993048819%22%3E" alt="WhatsApp" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=5551993048819" alt="WhatsApp" target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
   <a href="https://www.facebook.com/luismatheusc" alt="Facebook" target="_blank">
